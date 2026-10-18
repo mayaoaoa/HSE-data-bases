@@ -1,4 +1,4 @@
-## HSE-data-bases-course-project
+## HSE-data-bases-course-project — Aviation
 
 ### Task 1-2: проектирование базы данных и создание таблиц
 
